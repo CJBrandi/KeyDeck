@@ -16,3 +16,8 @@ Current State of PCB
 Pretty Light Day today. I researched some of my parts after reading the requirements for a highway submission. I am still unsure how I am going to get my pcb. I could supply the parts and have it all soldered together for me, I could have the pcb factory source the parts or I could solder them myself. Still unsure how the whole ordering process works. I also added in some screws to the case today to attach the lid. The basic shell for the Keydeck is done but, the final model is not. I can't figure out how to export my pcb as a 3d model properly. I don't even know if I made it correctly. Gonna figure more of that out tomorrow.
 <img width="1272" height="794" alt="image" src="https://github.com/user-attachments/assets/b13d069b-2163-46cf-a8fc-38e303a7f6b8" />
 Modified Case with Screws
+<img width="2662" height="1272" alt="image" src="https://github.com/user-attachments/assets/14d073d9-89af-4e99-8d01-e341f1434887" />
+Part Researching
+<img width="1318" height="734" alt="image" src="https://github.com/user-attachments/assets/c36b147b-35a7-4355-9216-15726891068c" />
+Broken KiCad Step File. Gonna fix tmw hopefully!
+
