@@ -21,3 +21,14 @@ Part Researching
 <img width="1318" height="734" alt="image" src="https://github.com/user-attachments/assets/c36b147b-35a7-4355-9216-15726891068c" />
 Broken KiCad Step File. Gonna fix tmw hopefully!
 
+**Day 4: 8/2/25**
+
+Even though I never got to work on the project on the 31st, i'm now back. Started off today by trying to find out why my pcb cad wasn't fully working. turns out I didn't properly define the edges of my pcb in edge.cuts. fixed it and most of the other errors with my pcb. still some bad things due to the xiao footprint but won't matter because i'm not using the pads by that other cutout. Also worked more on the full cad assembly, specifically after fixing the pcb cad. I researched my parts more and found 3d models for them.  I found a few flaws with my case so I also had help fixing those. Tomorrow, I'm probably gonna make the full assembly and research how I can get the pcb made.
+<img width="1082" height="674" alt="image" src="https://github.com/user-attachments/assets/978de042-c044-4484-a680-be1320caa6dc" />
+Revamping lid
+<img width="1842" height="942" alt="pcb" src="https://github.com/user-attachments/assets/629c4d2a-4d29-43e6-896a-28f6728d7c61" />
+fixed pcb.
+<img width="1508" height="890" alt="image" src="https://github.com/user-attachments/assets/33f4417d-5e4d-4dd3-9e23-9572ba585201" />
+begining of full assembly
+
+
