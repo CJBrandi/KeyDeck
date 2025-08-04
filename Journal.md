@@ -32,3 +32,13 @@ fixed pcb.
 begining of full assembly
 
 
+**Day 5: 8/3/25 - 3 Hours**
+
+Today was good progress made. I worked on the BOM after reading the highway guidlines for parts. I optimized the parts I picked to be way cheaper, ensuring my projects reliablity and it getting approved quicker do to cheaper overall cost. I also did heavy research on how my project would be assembled and decided against pcb manufactor assembling it because 1, it's way too complicated in how the parts get ther, whether u provide or they source or both and 2, my project doesn't have any super small assemblycomponents so it should be fine to manually do. because I am assmebling myself, I am going to put aside $25 of the budget for soldering supplies as I don't own an iron already. I also completed the cad today (with some more help) and looked into getting it rendered. I know how everything is going to go togther fully now and have something semi-presnetable. 
+<img width="1342" height="582" alt="FullCadKeyDeck" src="https://github.com/user-attachments/assets/7638ed0a-c7d0-4046-90c9-c3aa78749a76" />
+Full KeyDeck Cad
+<img width="2024" height="1238" alt="adafruitleds" src="https://github.com/user-attachments/assets/725aad24-4b9e-432f-95ec-81c2e9de8796" />
+led sourcing research
+<img width="2564" height="1344" alt="switchesali" src="https://github.com/user-attachments/assets/96d08e0c-4dc7-43ab-b2c7-c73fee3d4dff" />
+super cheap switches off aliexpress
+
