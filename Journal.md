@@ -42,3 +42,21 @@ led sourcing research
 <img width="2564" height="1344" alt="switchesali" src="https://github.com/user-attachments/assets/96d08e0c-4dc7-43ab-b2c7-c73fee3d4dff" />
 super cheap switches off aliexpress
 
+**Day 6: 8/4/25 - 1.5 Hours**
+
+Lots of learning going on today as I made my first ever render with blender. I started out not knowing how to use the software at all, but with a little online tutorial help, I made my own render with custom materials! took a lot of trouble shooting but eventually got 3 good enough looking images. 
+
+<img width="831" height="481" alt="Screenshot 2025-08-04 at 10 23 15 PM" src="https://github.com/user-attachments/assets/c0965801-08c7-4646-a1cc-6958697113a0" />
+Cad Assistant KeyDeck Render
+
+<img width="855" height="533" alt="Screenshot 2025-08-04 at 10 29 40 PM" src="https://github.com/user-attachments/assets/0d0c8b29-f62f-4f3d-bd47-51684bcfc96e" />
+Blender KeyDeck Step Import
+
+<img width="1019" height="611" alt="Screenshot 2025-08-04 at 10 24 49 PM" src="https://github.com/user-attachments/assets/7f85f35e-ba10-4f6e-8ad0-72fa0ca0fb6f" />
+ChatGpt render troubleshooting.
+
+<img width="259" height="732" alt="Screenshot 2025-08-04 at 11 28 30 PM" src="https://github.com/user-attachments/assets/b6f5b8ca-9392-4beb-9498-f70f59ae5863" />
+Me learning how to use blender shader settings
+
+
+
