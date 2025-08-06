@@ -59,4 +59,15 @@ ChatGpt render troubleshooting.
 Me learning how to use blender shader settings
 
 
+**Day 7: 8/5/25 - 2 Hours**
+
+Everyday now is getting closer and closer to submitting this project. Today, I put on some of the finishing touches of the project such as writing the ReadMe, getting quotes for parts, and creating the BOM. I did some research and made sure that I included all the parts I need to complete the KeyDeck in the BOM. I went to every product I had picked out over the past few days and more that I found today in order to pretend to purchase to get the final cost for each item. I added all of these to an excel BOM file which will be attached with the project. After this, I looked back at the highway website to see what I needed in my readme file. I then began to update that today with project information and lots of images of the preposed KeyDeck. The final step for today was somehow getting my excel workbook into github as a table in my readme. I did some research and found this awesome [website](https://csvtomd.com/#/) that converts csv to markdown tables the github can interpret. I got my excel workbook into a csv and then converted it to the table. Then, I fixed the links because the csv removed them. Also, I uploaded some files today and hopefully the rest tomorrow.
+
+<img width="776" height="1018" alt="pcb_price" src="https://github.com/user-attachments/assets/d163ed0e-afc2-40cb-b042-12f903a0171a" />
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ PCB Final Quote Price
+<img width="1812" height="966" alt="solder_iron" src="https://github.com/user-attachments/assets/da8f6674-0a71-4e8f-8957-218697260fe5" />
+Soldering Iron Retail Price
+<img width="1888" height="1048" alt="KeyDeck_ReadMe_BOM" src="https://github.com/user-attachments/assets/edbd612b-2479-450e-bdb4-a28f986e1d14" />
+Finally Fixed BOM Table with WORKING LINKS!!!!
+
 
