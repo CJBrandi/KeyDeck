@@ -1,6 +1,9 @@
 # KeyDeck
 The KeyDeck is a custom designed macropad that is semi-based on the [Hackpad]([url](https://hackpad.hackclub.com)) tutorial. I used KiCad to create a custom schematic and pcb for my own macropad, then I used Onshape to cad everything from the case to the full assembly of the KeyDeck, I researched the parts from many different sellers and decided on the best ones, and wrote some alpha firmware for the main controller. I made this project because I always have wanted to make a Hack Club project but never found the right one for me. I can say that I originally just wanted to make a simple HackPad but now this has evolved into something more, something that helped me learn many useful software and engineering skills too along the way. This project isn't very complex or anything extremely special, but i'm proud of it because of the skills I learned.
 
+# CAD Link:
+https://cad.onshape.com/documents/f0da09f9133df872021c7bb6/w/39fd902933bfae87f6640d91/e/d6283e9f59527cd2ccb38ed5  
+(A bit messy, but serves it's job)
 # KeyDeck Renders:
 <img width="1920" height="1080" alt="cornerRender-min" src="https://github.com/user-attachments/assets/3d2408cd-2d05-4712-8007-ee0b47e680b3" />
 Corner Shot
@@ -25,7 +28,7 @@ Top Down
 # KeyDeck PCB
 
 <img width="755" height="372" alt="Screenshot 2025-07-31 at 12 42 20 AM" src="https://github.com/user-attachments/assets/4c282726-4cec-441d-a8e9-6135dceeb1c5" />
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  
 PCB Schematic
 
 <img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/df5e19f8-0431-40a4-9a2e-3f1177650193" />
